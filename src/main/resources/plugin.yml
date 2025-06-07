@@ -1,0 +1,8 @@
+name: mc-dice
+version: '1.0-SNAPSHOT'
+main: com.github.jintajinta.mcDice.McDice
+api-version: '1.20'
+commands:
+  dice:
+    description: サイコロを振ります
+    usage: /dice
